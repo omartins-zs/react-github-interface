@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+<h1 align="center">🖥️ Github Interface 🔍</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<h1 align="center">
+    <img alt="Github Interface" width="800" height="400" title="" src="./image/github-interface.png" />
+</h1>
+
+### Libraries used
+
+- [axios](https://www.npmjs.com/package/axios)
+- [react-tabs](https://www.npmjs.com/package/react-tabs)
+- [styled-components](https://styled-components.com/)
+
 
 ## About project
 
@@ -14,17 +24,27 @@ We will create an application using the github public api.
 - Search repo by username
 - Search starred by username
 
-### Preview
+## 🛠 Tecnologias
 
-Print of the finished project.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-![plot](./image/snapshot-1.png)
+#### **Layout**
 
-### Libraries used
+- **[HTML](https://www.w3schools.com/html/)**
+- **[CSS](https://www.w3schools.com/css/)**
+- **[JS](https://www.w3schools.com/js/)**
+- **[React Js](https://www.w3schools.com/REACT/DEFAULT.ASP)**
 
-- [axios](https://www.npmjs.com/package/axios)
-- [react-tabs](https://www.npmjs.com/package/react-tabs)
-- [styled-components](https://styled-components.com/)
+#### **Utilitários**
+
+- **Repositório implementação de referência: [github-api-interface](https://github.com/benits/github-api-interface)**
+- **Instutor: [Matheus Benites](https://github.com/benits)**
+- **Editor: [Visual Studio Code](https://code.visualstudio.com/)**
+- **Markdown: [StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
